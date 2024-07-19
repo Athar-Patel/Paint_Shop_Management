@@ -5,28 +5,34 @@ This desktop application is a Paint Shop Management System developed using C#. T
 - **Log-In Page:** An easy way to log-in with username and password.
    ![Log_In](https://github.com/user-attachments/assets/41ee9701-ca35-4ecd-8dbd-8922fe6d6275)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Customer Management:** Register new customer, and also efficiently manage and track customer information.
   ![Customer_Details](https://github.com/user-attachments/assets/40f2732f-8bd7-417e-b082-8006d1d1f3b7)
 
-  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 - **Supplier Management:** Add, update and delete supplier details to manage easy order making and smooth delivery.
   ![Supplier_Details](https://github.com/user-attachments/assets/20c2b122-9201-48b2-8120-7db442afb48d)
 
-  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - **Comapny Management:** Oragnize and oversee company-related details by sorting products with respect to their companies.
   ![Company_Details](https://github.com/user-attachments/assets/12562d32-801f-4687-a6fc-16de774f2fc6)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Product Management:** Maintain clear and precise record of products (Name, price, quantity/size, durability, gift token availibilty, assurance/gurantee) as well as inventory.
   ![Product_Details](https://github.com/user-attachments/assets/7ca23720-07ad-47ce-b3d1-77d25879479a)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Billing Integration:** Generating invoice in a very user-friendly manner by allowing the user to select regular customers (Paint contractors & Painters) to keep their track of orders and color shades. A user can search invoice for retrival of order details, making this a very seanless billing process.
 ![Generating_Invoice](https://github.com/user-attachments/assets/a4e465a3-cdef-4d82-8b02-f9dfb8791c69)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **INVOICE PREVIEW**
 ![Invoice](https://github.com/user-attachments/assets/d0e65354-61af-467a-83e8-10d31cce1683)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Report Generation:** Following are the reports that are generated in this application.
 ![Report_Customer](https://github.com/user-attachments/assets/a965dcf8-0754-4638-95db-79a4231b1995)
@@ -35,7 +41,29 @@ This desktop application is a Paint Shop Management System developed using C#. T
 
 ![Report_Product](https://github.com/user-attachments/assets/844c30bf-8328-4d68-b056-064ec9221c27)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Installation
-1. Clone the repository:  
+1. Clone the repository: git clone https://github.com/Athar-Patel/Paint_Shop_Management.git
+2. Open the solution file "PaintShopManagement.sln" in Visual Studio.
+3. Build and run the project.
+
+
+
+## Contributing 
+To contribute, please fork the repository and submit a pull request with your changes. Follow these steps:
+
+a] Fork the repository.
+
+b] Create a new branch (git checkout -b feature/YourFeature).
+
+c] Commit your changes (git commit -am 'Add new feature').
+
+d] Push your branch (git push origin feature/YourFeature).
+
+e] Open a pull request.
+
+
+
+## Contact 
+For any questions or feedback, reach out to me at patelathar12@gmail.com
